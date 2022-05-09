@@ -1,3 +1,3 @@
-# my-cv
+# Curriculum Vitae 
 
-Curriculum Vitae -> https://1-sanchit-1.github.io/my-cv/
+https://1-sanchit-1.github.io/my-cv/
